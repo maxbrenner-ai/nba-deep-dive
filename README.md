@@ -1,7 +1,7 @@
 # NBA Deep Dive
 A deep dive into NBA stats and a model to predict the outcome of games. 
 
-Check out this [medium article](https://medium.com/@maxbrenner110) (Currently being published) I wrote diving into some of the analyses and describing the model. 
+Check out this [medium article](https://towardsdatascience.com/nba-deep-dive-7f7558174672) (Currently being published) I wrote diving into some of the analyses and describing the model. 
 
 ## Data
 `processed-data/` contains all the data used in exploration. It includes data such as games, salary, player stats, etc. Many of the data spans the past 5 seasons 15-16 to 19-20. It is scraped from different sources such as [nba.com](https://www.nba.com/) and [basketball-reference.com](https://www.basketball-reference.com/). `full-data/` contains processed train/test data for the model.
