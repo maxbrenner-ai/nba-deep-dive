@@ -1,0 +1,35 @@
+Bios
+- Colleges count: number of current nba players by college
+- College and Draft Number: draft number dist. by college
+
+bios-and-player-stats-and-player-states
+- avg vorp duke vs unc
+- avg vorp per state
+- avg height per state
+
+game-stats
+- FIX THIS ONE: Away vs Home wins (probably by season as well)
+
+player-birth-stats:
+- Born
+
+player-stats
+- vorp per player (any season)
+
+*** Need to get updated birthstate data ***
+
+Questions?
+- Which state has better players currently in the league? (or at 2016 when the player states was collected)
+	- Vorp and BPM, find out how to switch between these two measures on a single map
+	- BIOS-AND-PLAYER-STATS-AND-PLAYER-STATES
+
+- Which team has the biggest difference btween home wins and away wins? (SQL)
+	- And why?
+- Which teams have more starter changes?
+	- Might need to use SQL to transform games-stats
+- Which teams tend to win on rainy days or sunny days?
+	- If I can easily get weather data
+	- Cant easily get it so probably not
+
+
+- Add is visitor to ML model
